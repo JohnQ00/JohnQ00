@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, visitor 👋
 
-<!--
-**JohnQ00/JohnQ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 years old undergraduate at Universidade Federal de Alagoas(UFAL) and i'm working on my skills to understand what i want for this area.
+Currently, learning a little bit of everything.
 
-Here are some ideas to get you started:
+- 💫 Always aiming at learning at all costs.
+- 🔭 I’m currently working as a developer on TATU.
+- 🌱 I’m currently learning almost everything, but mainly React Native | Python. 
+- 🤔 I’m looking for help with back-end development, but front-end side of the force are welcome too.
+- 📫 How to reach me: [Email](jddcp@ic.ufal.br).
+- 😄 Pronouns: he/him/his.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=JohnQ00)](https://github.com/JohnQ00/github-readme-stats)
+
+ - [John Dutra](https://github.com/JohnQ00)
