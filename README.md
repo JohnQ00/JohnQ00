@@ -4,9 +4,9 @@ I'm a 20 years old undergraduate at Universidade Federal de Alagoas(UFAL) and i'
 Currently, learning a little bit of everything.
 
 - 💫 Always aiming at learning at all costs.
-- 🔭 I’m currently working as a developer on TATU and on a project at EDGE.
-- 🌱 I’m currently learning almost everything, but mainly Flutter | MySQL | Python. 
-- 🤔 I’m looking for help with back-end development, but front-end side of the force are welcome too.
+- 🔭 I’m currently working as a developer in TATU and on a project at EDGE.
+- 🌱 I’m currently learning Python | CNN | React for university and Flutter | MySQL for personal purposes. 
+- 🤔 I’m looking for help with machine learning study, especially with CNN and Image detection.
 - 📫 How to reach me: [Email](jddcp@ic.ufal.br).
 - 😄 Pronouns: he/him/his.
 
