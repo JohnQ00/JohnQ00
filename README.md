@@ -10,6 +10,8 @@ Currently, learning a little bit of everything.
 - 📫 How to reach me: [Email](jddcp@ic.ufal.br).
 - 😄 Pronouns: he/him/his.
 
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=JohnQ00)](https://github.com/JohnQ00/github-readme-stats)
+![JohnQ00's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnQ00&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnQ00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  - [John Dutra](https://github.com/JohnQ00)
