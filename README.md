@@ -12,6 +12,6 @@ Currently, learning a little bit of everything.
 
 ![JohnQ00's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnQ00&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnQ00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnQ00&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  - [John Dutra](https://github.com/JohnQ00)
