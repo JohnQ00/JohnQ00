@@ -1,6 +1,6 @@
 ### Hello, visitor 👋
 
-I'm a 20 year old undergraduate in Computer Engineering at Universidade Federal de Alagoas (UFAL) and I'm working on my skills to understand what I want for this area.
+I'm a 20 year old undergraduate in Computer Engineering at Universidade Federal de Alagoas (UFAL), currently living in Arapiraca - AL, and I'm working on my skills to understand what I want for this area.
 Currently, learning a little bit of everything.
 
 - 💫 Always aiming at learning at all costs.
