@@ -16,4 +16,6 @@ Currently, learning a little bit of everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnQ00&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
+![](https://komarev.com/ghpvc/?username=mffdsp&color=ff69b4)
+ 
 </div>
