@@ -4,7 +4,7 @@ I'm a 21 years old undergraduate in Computer Engineering at Universidade Federal
 Currently, learning a little bit of everything.
 
 - 💫 Always aiming at learning at all costs.
-- 🔭 I’m currently working as a researcher at Ford Motor Company and as developer on a project at EDGE.
+- 🔭 I’m currently working as a researcher at Ford Motor Company and as developer on a project at EASY.
 - 🌱 I’m currently learning Python | CNN | Vue.js | GAN. 
 - 🤔 I’m looking for help with machine learning study, especially with CNN and Image detection.
 - 📫 How to reach me: [Email](jddcp@ic.ufal.br).
