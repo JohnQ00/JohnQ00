@@ -1,11 +1,11 @@
 ### Hello, visitor 👋
 
-I'm a 21 years old undergraduate in Computer Engineering at Universidade Federal de Alagoas (UFAL), currently living in Arapiraca - AL, and I'm working on my skills to understand what I want for this area.
+I'm a 23 years old graduate in Computer Engineering at Universidade Federal de Alagoas (UFAL) and pursuing my Master's Degree at UFAL, currently living in Maceió - AL, and I'm working on my skills to understand what I want for this area.
 Currently, learning a little bit of everything.
 
 - 💫 Always aiming at learning at all costs.
 - 🔭 I’m currently working as a researcher at Ford Motor Company and as developer on a project at EASY.
-- 🌱 I’m currently learning Python | CNN | Vue.js | GAN. 
+- 🌱 I’m currently learning Python | CNN | Vue.js | Computer Vision. 
 - 🤔 I’m looking for help with machine learning study, especially with CNN and Image detection.
 - 📫 How to reach me: [Email](jddcp@ic.ufal.br).
 - 😄 Pronouns: he/him/his.
